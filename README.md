@@ -25,6 +25,7 @@ A responsive clothing brand website developed using HTML and CSS.
 
 ### 🗄️ Database Projects
 SQL Server projects involving tables, relationships, joins, views, stored procedures, and triggers.
+[📄 Banking Management System Report](./BANKING%20MANAGEMENT%20SYSTEM.docx)
 
 ## Currently Learning
 
